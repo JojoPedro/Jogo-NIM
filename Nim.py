@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def computador_escolhe_jogada(n, m):
 
     #Vez do computador
