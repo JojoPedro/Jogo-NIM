@@ -13,4 +13,6 @@
 <h1>Championship</h1>
 <h3>In a championship match you'll have three chances to win against the machine</h3> 
 
+<h2>I already talked too much soo without futher delay OPEN THE GAME!!!<h2>
+
 ![thumbs](https://media1.giphy.com/media/wypKXPQggwaCA/giphy.gif)
