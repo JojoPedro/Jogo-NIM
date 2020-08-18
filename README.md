@@ -13,4 +13,4 @@
 <h1>Championship</h1>
 <h3>In a championship match you'll have three chances to win against the machine</h3> 
 
-![thumbs](https://giphy.com/gifs/2001-a-space-odyssey-wypKXPQggwaCA)
+![thumbs](https://media1.giphy.com/media/wypKXPQggwaCA/giphy.gif)
